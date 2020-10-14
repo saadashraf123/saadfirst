@@ -1,7 +1,4 @@
 
-#mydivs{
-    
-}
 #row{
     /* height: 150px; */
     margin: 0px;
@@ -25,10 +22,4 @@ img{
     /* display: inline-block; */
     margin: 0px;
     padding: 0px;
-}
-.row2{
-    display: inline-block;
-}
-.row3{
-    display: inline-block;
 }
